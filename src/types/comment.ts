@@ -6,4 +6,3 @@ export type Comment = {
   authorId: string;
   offerId: string;
 };
-    

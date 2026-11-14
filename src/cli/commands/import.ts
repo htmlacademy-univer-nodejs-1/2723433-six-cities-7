@@ -87,11 +87,11 @@ const parseOffer = (line: string, lineNumber: number): MockOffer => {
     description,
     publicationDate: date,
     city: {
-        name: city as CityName,
-        location:  {
-            latitude: latitudeValue,
-            longitude: longitudeValue
-        }
+      name: city as CityName,
+      location:  {
+        latitude: latitudeValue,
+        longitude: longitudeValue
+      }
     },
     previewImage,
     images: imageList as MockOffer['images'],
