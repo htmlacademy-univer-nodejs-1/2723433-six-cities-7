@@ -1,0 +1,90 @@
+{
+  "offers": {
+    "titles": [
+      "Beautiful studio near the canal",
+      "Cozy apartment in the old town",
+      "Bright loft with a city view",
+      "Quiet room close to the cathedral",
+      "Modern flat next to the station",
+      "Family house with a small garden"
+    ],
+    "descriptions": [
+      "Bright and cozy place in the city center, ten minutes from the station.",
+      "Comfortable and quiet accommodation, perfect for a short city trip.",
+      "Spacious rooms, a fully equipped kitchen and a fast internet connection.",
+      "Renovated recently, close to cafes, shops and public transport.",
+      "A great choice for a family or a group of friends visiting the city."
+    ],
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "previewImages": [
+      "https://example.com/img/preview1.jpg",
+      "https://example.com/img/preview2.jpg",
+      "https://example.com/img/preview3.jpg",
+      "https://example.com/img/preview4.jpg"
+    ],
+    "images": [
+      "https://example.com/img/1.jpg",
+      "https://example.com/img/2.jpg",
+      "https://example.com/img/3.jpg",
+      "https://example.com/img/4.jpg",
+      "https://example.com/img/5.jpg",
+      "https://example.com/img/6.jpg",
+      "https://example.com/img/7.jpg",
+      "https://example.com/img/8.jpg"
+    ],
+    "types": [
+      "apartment",
+      "house",
+      "room",
+      "hotel"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "users": [
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "avatarUrl": "https://example.com/avatar1.jpg",
+        "type": "pro"
+      },
+      {
+        "name": "Martin",
+        "email": "martin@example.com",
+        "avatarUrl": "https://example.com/avatar2.jpg",
+        "type": "regular"
+      },
+      {
+        "name": "Sophie",
+        "email": "sophie@example.com",
+        "avatarUrl": "https://example.com/avatar3.jpg",
+        "type": "pro"
+      },
+      {
+        "name": "Oliver",
+        "email": "oliver@example.com",
+        "avatarUrl": "https://example.com/avatar4.jpg",
+        "type": "regular"
+      },
+      {
+        "name": "Emma",
+        "email": "emma@example.com",
+        "avatarUrl": "https://example.com/avatar5.jpg",
+        "type": "pro"
+      }
+    ]
+  }
+}
